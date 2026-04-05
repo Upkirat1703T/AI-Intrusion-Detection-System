@@ -151,11 +151,3 @@ The model was additionally evaluated on **UNSW-NB15** — a modern dataset conta
 
 - [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) — via `sklearn.datasets.fetch_kddcup99`
 - [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset) — University of New South Wales, 2015
-
----
-
-## 👤 Author
-
-**Your Name**  
-B.Eng. CSE (Honors in Cybersecurity) — Chandigarh University  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
