@@ -56,7 +56,7 @@ Train/Test Split  →  80% train / 20% test (stratified)
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Intrusion-Detection.git
+git clone https://github.com/Upkirat1703T/AI-Intrusion-Detection.git
 cd AI-Intrusion-Detection
 pip install -r requirements.txt
 ```
